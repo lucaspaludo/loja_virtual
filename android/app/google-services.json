@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569339546659",
+    "project_id": "loja-flutter-b1e31",
+    "storage_bucket": "loja-flutter-b1e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569339546659:android:72af31a1fc5e7b4dbb7596",
+        "android_client_info": {
+          "package_name": "br.com.boarim.lojavirtual.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569339546659-qub7auu0ha9j2fs7heldf00e39uqcbco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCur77M1xE-hWcDvg0Bmp2UgwSHwrwSluw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569339546659-qub7auu0ha9j2fs7heldf00e39uqcbco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
